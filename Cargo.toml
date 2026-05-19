@@ -1,0 +1,3 @@
+[workspace]
+members = ["euler", "pi"]
+resolver = "3"
